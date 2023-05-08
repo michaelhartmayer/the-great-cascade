@@ -32,6 +32,22 @@ Dependencies are clearly defined as Inputs and can be either aggregated to the p
 
 By incorporating the Transformation Cost Out into the TGC Planning framework, project managers can better estimate project costs, allocate resources more efficiently, and make more informed decisions about project timelines and priorities.
 
+### 🐝 Swarming and Parallelism
+
+TGC Planning facilitates swarming and parallelism, leading to more efficient project execution. By subdividing containers into smaller, atomic units that require only one transformer, TGC Planning allows multiple team members with the same skillset (e.g., React JS Programmers) to work on different containers simultaneously. This approach helps distribute the workload evenly across the team and make better use of available resources.
+
+Since TGC Planning focuses on breaking tasks down into single-transformer units, it becomes easier to identify tasks that can be executed in parallel by compatible transformers. This can lead to faster completion of project milestones and improved overall project performance.
+
+By emphasizing the subdivision principle and compatibility between transformers and containers, TGC Planning encourages a more efficient allocation of resources and an increased level of parallelism in project execution.
+
+### 🌐 Self-Assembling Transformers and Elimination of Fixed Teams
+
+TGC Planning promotes a flexible approach to resource allocation, where team members can work on any compatible task, regardless of their predefined team affiliations. In TGC Planning, transformers (team members) are self-assembling, meaning that they can dynamically join and leave tasks based on their skillset and the project's current needs.
+
+By focusing on compatibility between transformers and containers, TGC Planning eliminates the need for fixed teams. Instead, resources can be allocated based on their skills and the specific requirements of each container. This approach encourages cross-functional collaboration and allows for a more adaptable and responsive project environment.
+
+The elimination of fixed teams and the self-assembling nature of transformers in TGC Planning can lead to more efficient project execution, as resources can be dynamically allocated to the tasks that best match their skills and expertise, irrespective of traditional team boundaries.
+
 ## 🌟 Example
 
 Here is an example using TGC Planning:
